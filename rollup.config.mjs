@@ -5,7 +5,6 @@ const input = "src/index.ts";
 /** @type {() => import('rollup').RollupOptions} */
 const createConfig = (format, dir) => ({
   input,
-  external: ["react"],
   output: {
     dir,
     format,
