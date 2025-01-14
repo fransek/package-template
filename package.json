@@ -30,7 +30,7 @@
     "dev": "rollup -c -w",
     "test": "vitest --run",
     "test:watch": "vitest",
-    "coverage": "vitest --run --coverage",
+    "coverage": "vitest --run --coverage --passWithNoTests",
     "lint": "eslint",
     "prepare": "husky"
   },
