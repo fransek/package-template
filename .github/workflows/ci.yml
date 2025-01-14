@@ -15,7 +15,7 @@ jobs:
       - name: Install dependencies
         run: pnpm install
       - name: Run tests
-        run: pnpm vitest --run --coverage
+        run: pnpm run coverage
 
   lint:
     name: Run linters
