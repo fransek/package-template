@@ -8,3 +8,4 @@
 - Prettier
 - Husky
 - Lint-staged
+- semantic-release

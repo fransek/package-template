@@ -1,17 +1,17 @@
 {
   "name": "@fransek/package-template",
   "version": "0.1.0",
-  "author": "John Doe <john.doe@mail.com>",
+  "author": "Frans Ekman <fransedvinekman@gmail.com>",
   "license": "MIT",
-  "description": "My package description",
+  "description": "Package template for TypeScript packages",
   "keywords": [],
-  "homepage": "https://github.com/johndoe/my-package#readme",
+  "homepage": "https://github.com/fransek/package-template#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johndoe/my-package"
+    "url": "git+https://github.com/fransek/package-template"
   },
   "bugs": {
-    "url": "https://github.com/johndoe/my-package/issues"
+    "url": "https://github.com/fransek/package-template/issues"
   },
   "files": [
     "dist"
