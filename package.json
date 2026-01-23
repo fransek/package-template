@@ -1,6 +1,6 @@
 {
   "name": "@fransek/package-template",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Frans Ekman <fransedvinekman@gmail.com>",
   "license": "MIT",
   "description": "Package template for TypeScript packages",
