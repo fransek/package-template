@@ -64,5 +64,8 @@
       "eslint --fix",
       "bash -c tsc --noEmit"
     ]
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
