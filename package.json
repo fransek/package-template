@@ -1,5 +1,5 @@
 {
-  "name": "my-package",
+  "name": "@fransek/package-template",
   "version": "0.1.0",
   "author": "John Doe <john.doe@mail.com>",
   "license": "MIT",
@@ -28,7 +28,7 @@
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
-    "test": "vitest --run",
+    "test": "vitest --run --passWithNoTests",
     "test:watch": "vitest",
     "coverage": "vitest --run --coverage --passWithNoTests",
     "lint": "eslint",
