@@ -1,6 +1,6 @@
 {
   "name": "@fransek/package-template",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "type": "module",
   "private": false,
   "author": "Frans Ekman <fransedvinekman@gmail.com>",
