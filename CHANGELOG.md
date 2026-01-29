@@ -5,6 +5,15 @@
 
 * prerelease config ([3ee545d](https://github.com/fransek/package-template/commit/3ee545d259b19d5402e572d7712494059a1f0ec4))
 
+## [1.0.5](https://github.com/fransek/package-template/compare/v1.0.4...v1.0.5) (2026-01-29)
+
+
+### Bug Fixes
+
+* added commitlint ([92ab7f5](https://github.com/fransek/package-template/commit/92ab7f52dc857c66b0f423241b1495deda7c8477))
+* automatic npm releases ([29cd1fa](https://github.com/fransek/package-template/commit/29cd1fa09a515d80f1a9f4ca24bcf76f63262895))
+* **workflow:** release-type changed to node ([a6e1542](https://github.com/fransek/package-template/commit/a6e1542b55d18224e0340138bdef9a1aa67fffbc))
+
 ## [1.0.4](https://github.com/fransek/package-template/compare/v1.0.3...v1.0.4) (2026-01-29)
 
 
