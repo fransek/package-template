@@ -5,6 +5,13 @@
 
 * prerelease config ([3ee545d](https://github.com/fransek/package-template/commit/3ee545d259b19d5402e572d7712494059a1f0ec4))
 
+## [1.0.5](https://github.com/fransek/package-template/compare/v1.0.4...v1.0.5) (2026-01-29)
+
+
+### Bug Fixes
+
+* automatic npm releases ([29cd1fa](https://github.com/fransek/package-template/commit/29cd1fa09a515d80f1a9f4ca24bcf76f63262895))
+
 ## [1.0.4](https://github.com/fransek/package-template/compare/v1.0.3...v1.0.4) (2026-01-29)
 
 
