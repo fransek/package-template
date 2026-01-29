@@ -5,6 +5,13 @@
 
 * prerelease config ([3ee545d](https://github.com/fransek/package-template/commit/3ee545d259b19d5402e572d7712494059a1f0ec4))
 
+## [1.0.6](https://github.com/fransek/package-template/compare/v1.0.5...v1.0.6) (2026-01-29)
+
+
+### Bug Fixes
+
+* **workflow:** added build step and switched to pnpm ([f8304c2](https://github.com/fransek/package-template/commit/f8304c24ea93083611b17e82d0519b4fe07d94a6))
+
 ## [1.0.5](https://github.com/fransek/package-template/compare/v1.0.4...v1.0.5) (2026-01-29)
 
 
