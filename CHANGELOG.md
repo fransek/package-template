@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/fransek/package-template/compare/v1.0.2...v1.0.3) (2026-01-29)
+
+
+### Bug Fixes
+
+* prerelease config ([3ee545d](https://github.com/fransek/package-template/commit/3ee545d259b19d5402e572d7712494059a1f0ec4))
+
 ## [1.0.2](https://github.com/fransek/package-template/compare/v1.0.1...v1.0.2) (2026-01-23)
 
 
