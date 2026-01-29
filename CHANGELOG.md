@@ -5,6 +5,13 @@
 
 * prerelease config ([3ee545d](https://github.com/fransek/package-template/commit/3ee545d259b19d5402e572d7712494059a1f0ec4))
 
+## [1.0.4](https://github.com/fransek/package-template/compare/v1.0.3...v1.0.4) (2026-01-29)
+
+
+### Bug Fixes
+
+* migrating to release-please ([38051bd](https://github.com/fransek/package-template/commit/38051bd5a8b5eb93847e2154aa7737ed1e5d70f9))
+
 ## [1.0.2](https://github.com/fransek/package-template/compare/v1.0.1...v1.0.2) (2026-01-23)
 
 
