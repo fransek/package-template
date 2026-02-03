@@ -4,6 +4,13 @@
 
 - **workflow:** added build step and switched to pnpm ([f8304c2](https://github.com/fransek/package-template/commit/f8304c24ea93083611b17e82d0519b4fe07d94a6))
 
+## [1.1.0](https://github.com/fransek/package-template/compare/v1.0.6...v1.1.0) (2026-02-03)
+
+
+### Features
+
+* added pnpm scripts, updated readme, and fixed changelog ([ac039b4](https://github.com/fransek/package-template/commit/ac039b4ab60027e3e4a0e9a1b1f0f07cbd030108))
+
 ## [1.0.5](https://github.com/fransek/package-template/compare/v1.0.4...v1.0.5) (2026-01-29)
 
 ### Bug Fixes
