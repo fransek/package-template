@@ -4,6 +4,18 @@
 
 - **workflow:** added build step and switched to pnpm ([f8304c2](https://github.com/fransek/package-template/commit/f8304c24ea93083611b17e82d0519b4fe07d94a6))
 
+## [1.2.0](https://github.com/fransek/package-template/compare/v1.1.0...v1.2.0) (2026-02-24)
+
+
+### Features
+
+* semantic pull requests ([#8](https://github.com/fransek/package-template/issues/8)) ([a13ab76](https://github.com/fransek/package-template/commit/a13ab76635811a77693a7c61672a48c58a112752))
+
+
+### Bug Fixes
+
+* emojis ([7046985](https://github.com/fransek/package-template/commit/7046985540f4e9ed2ef8d5b6064294f6927a53cd))
+
 ## [1.1.0](https://github.com/fransek/package-template/compare/v1.0.6...v1.1.0) (2026-02-03)
 
 
