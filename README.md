@@ -1,4 +1,4 @@
-# TypeScript package template
+# TypeScript Package Template
 
 - [pnpm](https://pnpm.io/) - Package manager
 - [Vitest](https://vitest.dev/) - Testing framework
