@@ -4,6 +4,17 @@
 
 - **workflow:** added build step and switched to pnpm ([f8304c2](https://github.com/fransek/package-template/commit/f8304c24ea93083611b17e82d0519b4fe07d94a6))
 
+## [2.0.0](https://github.com/fransek/package-template/compare/v1.2.0...v2.0.0) (2026-02-25)
+
+
+### ⚠ BREAKING CHANGES
+
+* lint pr workflow now runs on synchronize
+
+### Bug Fixes
+
+* lint pr workflow ([91119b4](https://github.com/fransek/package-template/commit/91119b45dfa3d7a3155e40c9fa0b9543382820f5))
+
 ## [1.2.0](https://github.com/fransek/package-template/compare/v1.1.0...v1.2.0) (2026-02-24)
 
 
