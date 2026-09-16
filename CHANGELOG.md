@@ -4,6 +4,22 @@
 
 - **workflow:** added build step and switched to pnpm ([f8304c2](https://github.com/fransek/package-template/commit/f8304c24ea93083611b17e82d0519b4fe07d94a6))
 
+## [2.0.0](https://github.com/fransek/package-template/compare/v1.2.0...v2.0.0) (2026-09-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* lint pr workflow now runs on synchronize
+
+### Features
+
+* publish with npm trusted publishing and staged publishing ([#12](https://github.com/fransek/package-template/issues/12)) ([caafe72](https://github.com/fransek/package-template/commit/caafe72e64ca38ac7bb101c89a304b0e3fa82a5d))
+
+
+### Bug Fixes
+
+* lint pr workflow ([91119b4](https://github.com/fransek/package-template/commit/91119b45dfa3d7a3155e40c9fa0b9543382820f5))
+
 ## [1.2.0](https://github.com/fransek/package-template/compare/v1.1.0...v1.2.0) (2026-02-24)
 
 
