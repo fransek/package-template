@@ -4,6 +4,13 @@
 
 - **workflow:** added build step and switched to pnpm ([f8304c2](https://github.com/fransek/package-template/commit/f8304c24ea93083611b17e82d0519b4fe07d94a6))
 
+## [2.1.0](https://github.com/fransek/package-template/compare/v2.0.0...v2.1.0) (2026-09-17)
+
+
+### Features
+
+* upgraded pnpm to v12 ([#13](https://github.com/fransek/package-template/issues/13)) ([2c44f12](https://github.com/fransek/package-template/commit/2c44f12e93893175b7ee6180ad3a7783215224f9))
+
 ## [2.0.0](https://github.com/fransek/package-template/compare/v1.2.0...v2.0.0) (2026-09-16)
 
 
